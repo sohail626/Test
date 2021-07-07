@@ -22,3 +22,21 @@
   opacity: 1;
   
 }
+
+.navbar-right a:hover{
+  color: rgb(24, 209, 24);
+}
+
+.navbar-logo{
+  padding-left:7%;
+ 
+  
+}
+
+.navbar-logo img{
+  width: 100px;
+  height:30px;
+
+  
+}
+
