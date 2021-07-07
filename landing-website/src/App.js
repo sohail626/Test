@@ -12,8 +12,9 @@ import {
 function App() {
   return (
     <div>
+  <Backgroundvideo/>
       <Router>
-      <Backgroundvideo/>
+    
     <Main/>
     </Router>
     </div>
