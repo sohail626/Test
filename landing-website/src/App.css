@@ -11,3 +11,14 @@
   float:right;
   padding-right:6%;
 }
+
+.navbar-right a{
+  text-decoration:none;
+  padding:8px;
+  color:#fff;
+  font-family:Arial;
+  font-weight:400;
+  font-size: 12px;
+  opacity: 1;
+  
+}
