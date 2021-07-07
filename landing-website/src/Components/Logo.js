@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../src/images/PinClipart.com_church-anniversary-clip-art_1458487.png"
+import logo from "../Images/logo1.png"
 
 export default function Logo() {
     return (
