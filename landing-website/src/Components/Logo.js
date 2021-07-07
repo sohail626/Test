@@ -1,12 +1,12 @@
 import React from 'react'
 import { logoImage } from '../Images/image'
-import logo from "../Images/logo1.png"
+// import logo from "../Images/logo1.png"
 
  function Logo() {
     return (
         <>
-            <a href="#" class="navbar-logo" >
-                <img src={logoImage} />
+            <a href="/" class="navbar-logo" >
+                <img src={logoImage} alt="logo" />
             </a>
         </>
     )
