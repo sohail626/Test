@@ -2,9 +2,20 @@ import React from 'react'
 
 function Nav() {
     return (
-        <div>
-            
-        </div>
+        <>
+            <div class="navbar-right">
+                <Link to="#">Ground Truth Data</Link>
+                <Link to="#">How It Works</Link>
+                <Link to="#">Fee Structure</Link>
+                <Link to="#">Example Deliverables</Link>
+                <Link to="#">Submission portals</Link>
+                <Link to="#">Contact Us</Link>
+                <Link className="Sign-btn" href="#">Sign In</Link>
+
+            </div>
+
+
+        </>
     )
 }
 
