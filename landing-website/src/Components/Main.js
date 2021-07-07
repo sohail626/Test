@@ -1,5 +1,6 @@
 import React from 'react'
 import Nav from './Nav'
+import Logo from './Logo'
 
 function Main() {
     return (
@@ -9,6 +10,7 @@ function Main() {
                 <div class="header">
                   <nav class="navigation">
                   <Nav/>
+                  <Logo/>
 
                     </nav>
                 </div>

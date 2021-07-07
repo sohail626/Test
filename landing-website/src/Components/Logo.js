@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from "../Images/logo1.png"
 
-export default function Logo() {
+ function Logo() {
     return (
         <>
             <a href="#" class="navbar-logo" >
@@ -10,3 +10,4 @@ export default function Logo() {
         </>
     )
 }
+export default Logo
