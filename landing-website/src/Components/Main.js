@@ -1,4 +1,5 @@
 import React from 'react'
+import Nav from './Nav'
 
 function Main() {
     return (
@@ -6,8 +7,8 @@ function Main() {
 
             <header>
                 <div class="header">
-
-                    <nav class="navigation">
+                  <nav class="navigation">
+                  <Nav/>
 
                     </nav>
                 </div>
