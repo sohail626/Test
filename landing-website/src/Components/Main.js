@@ -10,7 +10,9 @@ function Main() {
                 <div class="header">
                   <nav class="navigation">
                   <Nav/>
+
                   <Logo/>
+                  <hr></hr>
 
                     </nav>
                 </div>
