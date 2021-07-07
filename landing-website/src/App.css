@@ -6,3 +6,8 @@
   width:100%;
   z-index:1;
 } 
+
+.navbar-right{
+  float:right;
+  padding-right:6%;
+}
