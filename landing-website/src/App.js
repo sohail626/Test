@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Main from './Components/Main';
+import Backgroundvideo from './Components/Backgroundvideo';
 import {
   BrowserRouter as Router,
   Switch,
@@ -12,6 +13,7 @@ function App() {
   return (
     <div>
       <Router>
+      <Backgroundvideo/>
     <Main/>
     </Router>
     </div>

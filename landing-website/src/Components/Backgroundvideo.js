@@ -1,4 +1,5 @@
 import React from 'react'
+import video from "../videos/homepage.mp4"
 
 function Backgroundvideo() {
     return (
